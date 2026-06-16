@@ -1,0 +1,8 @@
+{
+  "https://benepik.in": {
+    "target": "https://benepik.in",
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
